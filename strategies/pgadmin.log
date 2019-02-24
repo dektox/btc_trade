@@ -1,0 +1,9 @@
+2017-07-18 15:08:54 ERROR  : server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+2017-07-18 15:08:54 ERROR  : connection not open
+2017-07-18 15:09:23 ERROR  : ERROR:  permission denied for relation group_profiles
+2017-07-18 15:09:52 ERROR  : could not connect to server: No route to host (0x00002751/10065)
+	Is the server running on host "178.159.110.25" and accepting
+	TCP/IP connections on port 5432?
+

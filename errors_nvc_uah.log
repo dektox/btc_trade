@@ -1,0 +1,13 @@
+Expecting value: line 1 column 1 (char 0)
+Expecting value: line 1 column 1 (char 0)
+Expecting value: line 1 column 1 (char 0)
+Expecting value: line 1 column 1 (char 0)
+Expecting value: line 1 column 1 (char 0)
+Expecting value: line 1 column 1 (char 0)
+Expecting value: line 1 column 1 (char 0)
+string indices must be integers
+string indices must be integers
+string indices must be integers
+HTTPSConnectionPool(host='btc-trade.com.ua', port=443): Max retries exceeded with url: /api/deals/nvc_uah (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fe040523fd0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+string indices must be integers
+string indices must be integers
